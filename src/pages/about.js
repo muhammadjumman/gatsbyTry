@@ -1,6 +1,6 @@
 import React from "react";
 import Layout from "../components/Layout";
-import Seo from "../components/seo";
+import Seo from "../components/Seo";
 const about = () => {
     return <Layout title={"About"}>This is the about section</Layout>;
 };
